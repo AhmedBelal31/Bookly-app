@@ -41,7 +41,7 @@ Welcome to the world of BookBrowse, where the joy of reading meets the convenien
      - Prioritize readability and maintainability through clean, well-commented code.
      - Implement best coding practices to ensure a smooth development process.
 
-## SreenShots 
+## ScreenShots 
 
 <p align="center">
   <img src="https://github.com/AhmedBelal31/Bookly-app/assets/131663660/a3ab96ec-af81-4be7-b72b-ac91c3590f63" width="400" />
