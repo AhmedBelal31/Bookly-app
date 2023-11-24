@@ -54,9 +54,10 @@ Welcome to Bookly, a meticulously designed Flutter app that seamlessly blends th
 
 # Benfit👻
 ## 🖥  Screens 
-* [🆗] HomeScreen
-* [🆗] Surah Screen
-* [🆗] Setting Screen
+* [🆗] Home Screen
+* [🆗] Book Details Screen
+* [🆗] Search Screen
+* [🆗] Preview Book Screen
 <hr>
 
 # 🖥 Deal With :
