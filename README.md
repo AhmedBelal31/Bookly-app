@@ -1,4 +1,4 @@
-# bookly_app
+# Bookly App
 
 A new Flutter project.
 
@@ -49,20 +49,42 @@ Welcome to Bookly, a meticulously designed Flutter app that seamlessly blends th
      - Implement best coding practices to ensure a smooth development process.
 
 
-## ScreenShots 
 
-<p align="center">
-  <img src="https://github.com/AhmedBelal31/Bookly-app/assets/131663660/a3ab96ec-af81-4be7-b72b-ac91c3590f63" width="400" />
-  <img src="https://github.com/AhmedBelal31/Bookly-app/assets/131663660/c1d79777-9c8c-46da-802b-ea462844abe2" width="400" />
-</p>
+## Al Quran-Al-Kareem shared local DB and Local Json
+
+# Benfit👻
+## 🖥  Screens 
+* [🆗] HomeScreen
+* [🆗] Surah Screen
+* [🆗] Setting Screen
+<hr>
+
+# 🖥 Deal With :
+*  Deal With MVVM Pattern
+* Deal With Google Books Api (Dio)
+*  Deal With Animations 
+
+# Snapshots 📱 And Videos 🎥
 
 
-<p align="center">
-  <img src="https://github.com/AhmedBelal31/Bookly-app/assets/131663660/24b30fbe-37e3-4a8e-8a59-b1082540240e" width="400" />
-  <img src="https://github.com/AhmedBelal31/Bookly-app/assets/131663660/a2795a00-f489-4b5d-b4fc-9f3674067af7" width="400" />
-</p>
 
-![image5](https://github.com/AhmedBelal31/Bookly-app/assets/131663660/46e07f06-3cb0-42a3-a6b3-5bdc00e5d318)
+
+|  Splash Screen | Home Screen |
+|---------|---------|
+| ![App Screenshot 1](https://github.com/AhmedBelal31/Bookly-app/assets/131663660/a3ab96ec-af81-4be7-b72b-ac91c3590f63) | ![App Screenshot 2](https://github.com/AhmedBelal31/Bookly-app/assets/131663660/c1d79777-9c8c-46da-802b-ea462844abe2) |
+
+
+| Book Details   | Preview Book Screen |
+|---------|---------|
+| ![App Screenshot 1](https://github.com/AhmedBelal31/Bookly-app/assets/131663660/24b30fbe-37e3-4a8e-8a59-b1082540240e) | ![App Screenshot 2](https://github.com/AhmedBelal31/Bookly-app/assets/131663660/a2795a00-f489-4b5d-b4fc-9f3674067af7) |
+
+
+| Search Screen	 |
+|---------|
+| ![App Screenshot 1](https://github.com/AhmedBelal31/Bookly-app/assets/131663660/46e07f06-3cb0-42a3-a6b3-5bdc00e5d318) |
+
+
+
 
 
 
